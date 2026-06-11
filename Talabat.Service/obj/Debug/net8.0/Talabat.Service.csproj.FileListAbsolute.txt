@@ -1,0 +1,26 @@
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Service.deps.json
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Service.dll
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Service.pdb
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfo.cs
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.dll
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\refint\Talabat.Service.dll
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.pdb
+F:\ASP.NET\Apis\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\ref\Talabat.Service.dll
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Service.deps.json
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Service.dll
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Service.pdb
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Core.dll
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\bin\Debug\net8.0\Talabat.Core.pdb
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfo.cs
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat..89B18B2E.Up2Date
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.dll
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\refint\Talabat.Service.dll
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\Talabat.Service.pdb
+D:\Route .NET course\08 ASP.NET Core Web APIs\Session 01\Talabat.ElSaad.Solution\Talabat.Service\obj\Debug\net8.0\ref\Talabat.Service.dll
